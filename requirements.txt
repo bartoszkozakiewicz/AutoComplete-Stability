@@ -2,3 +2,8 @@ transformers==4.32.0
 torch==2.0.1
 torchaudio==2.0.2
 torchvision==0.15.2
+bitsandbytes==0.41.1
+ipykernel==6.25.1
+accelerate==0.22.0
+scipy==1.11.2
+gradio==3.41.1
